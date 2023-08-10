@@ -1,6 +1,4 @@
-<br/>
-### <div align="center">Sooyoung Kang</div>
-<br/>
+### <br/><div align="center">Sooyoung Kang</div>
 ## Profile
 - Full-stack dev. (Engineer Information Processing)
 - Classic Pianist. (Bachelor of Piano Performance, Hanyang Univ.)
