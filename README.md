@@ -20,12 +20,12 @@
 - Typescript
 - HTML5
 - CSS3
-### Dev-Env
+### Dev-Env.
 - MS Windows
 - Linux(CentOS)
 - Eclipse(2020-06)
 - VS Code
-### Deploy-Env
+### Deploy Env.
 - AWS
 - GCP
 - Docker / Tomcat, Node.js
