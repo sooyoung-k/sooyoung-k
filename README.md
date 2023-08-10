@@ -25,6 +25,8 @@
 - Eclipse(2020-06)
 - VS Code
 ### Deploy-Env
+- AWS
+- GCP
 - Docker / Tomcat, Node.js
 <br/>
 
