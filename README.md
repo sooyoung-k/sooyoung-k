@@ -2,6 +2,7 @@
 ## <br/>Profile
 - (3 year ~ ) Full-stack dev. (Engineer Information Processing)
 - Classic Pianist. (Bachelor of Piano Performance, Hanyang Univ.)
+- Lives and works in Seongsu, Seoul, South Korea
 <br/>
 
 ## Skill Set  
