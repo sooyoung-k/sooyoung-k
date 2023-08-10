@@ -1,8 +1,9 @@
 ### <br/><div align="center">Sooyoung Kang</div>
 ## <br/>Profile
-- (3 year ~ ) Full-stack dev. (Engineer Information Processing)
+- Lives and works in Seongsu-dong, Seoul, South Korea.
+- Full-stack dev. (Engineer Information Processing, 2021 ~ now)
+- Musical Pianist. (works in Daehak-ro, Seoul, South Korea, 2016 ~ 2019)
 - Classic Pianist. (Bachelor of Piano Performance, Hanyang Univ.)
-- Lives and works in Seongsu-dong, Seoul, South Korea
 <br/>
 
 ## Skill Set  
