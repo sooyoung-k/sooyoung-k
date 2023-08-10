@@ -12,7 +12,8 @@
 - SQL server
 ### Back-End
 - Spring(5.3.27) / mybatis3, maven, gradle(groovy)
-- JSP(JSTL) / Java(8)(servlet 4.0)
+- JSP(JSTL)
+- Java8(servlet 4.0)
 ### Front-End
 - Vue.js - Nuxt.js with pinia, element+, tailwindcss
 - Javascript(- jQuery)
