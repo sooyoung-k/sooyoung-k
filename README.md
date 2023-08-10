@@ -16,7 +16,7 @@
 - JSP(JSTL)
 ### Front-End
 - Vue.js - Nuxt.js with pinia, element+, tailwindcss
-- Javascript(- jQuery)
+- Javascript(+ jQuery)
 - Typescript
 - HTML5
 - CSS3
