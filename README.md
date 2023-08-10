@@ -21,8 +21,8 @@
 - HTML5
 - CSS3
 ### Dev-Env
-- MS Windows(PowerShell)
-- Linux(CentOS shell)
+- MS Windows
+- Linux(CentOS)
 - Eclipse(2020-06)
 - VS Code
 ### Deploy-Env
