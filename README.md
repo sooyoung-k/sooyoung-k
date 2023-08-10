@@ -11,10 +11,21 @@
 - mariaDB
 - SQL server
 ### Back-End
-- Spring(5.3.27) with mybatis3, maven, gradle(groovy) / JSP(JSTL) / Java(8)(servlet 4.0)
-- Front-End  : Vue.js - Nuxt.js with pinia, element+, tailwindcss / Javascript(- jQuery), Typescript, HTML5, CSS3
-- Dev-Env    : MS Windows(PowerShell), Linux(CentOS shell) / Eclipse(2020-06), VS Code
-- Deploy-Env : Docker / Tomcat, Node.js
+- Spring(5.3.27) with mybatis3, maven, gradle(groovy)
+- JSP(JSTL) / Java(8)(servlet 4.0)
+### Front-End
+- Vue.js - Nuxt.js with pinia, element+, tailwindcss
+- Javascript(- jQuery)
+- Typescript
+- HTML5
+- CSS3
+### Dev-Env
+- MS Windows(PowerShell)
+- Linux(CentOS shell)
+- Eclipse(2020-06)
+- VS Code
+### Deploy-Env
+- Docker / Tomcat, Node.js
 <br/>
 
 ## Connect with me  
