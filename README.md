@@ -11,7 +11,7 @@
 - mariaDB
 - SQL server
 ### Back-End
-- Spring5 / mybatis3, maven, gradle(groovy)
+- Spring5 with mybatis3, maven, gradle(groovy)
 - Java8 / JSP(JSTL)
 ### Front-End
 - Vue.js - Nuxt.js with pinia, element+, tailwindcss
