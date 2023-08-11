@@ -3,7 +3,7 @@
 - Lives and works in Seongsu-dong, Seoul, South Korea.
 - Full-stack dev. (Engineer Information Processing, 2021 ~ now)
 - Musical Pianist & Actor. (works in Daehak-ro, Seoul, South Korea, 2016 ~ 2019)
-- Bachelor of Piano Performance, Hanyang Univ, Seoul, South Korea
+- Bachelor of Classic Piano Performance, Hanyang Univ, Seoul, South Korea
 <br/>
 
 ## Skill Set  
