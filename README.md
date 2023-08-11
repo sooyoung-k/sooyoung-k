@@ -30,7 +30,7 @@
 ### Deploy Env.
 - AWS
 - GCP
-- Docker / Tomcat, Node.js
+- Docker / Nginx, Tomcat, Node.js
 <br/>
 
 ## Connect with me  
