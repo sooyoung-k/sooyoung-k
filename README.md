@@ -2,7 +2,7 @@
 ## <br/>Profile
 - Lives and works at Seongsu-dong, Seoul, South Korea.
 - Full-stack developer. (Engineer Information Processing, 2021 ~ now)
-- Musical Pianist & Actor. (<a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">'playdb' Link</a>, 2016 ~ 2019)
+- Musical Pianist & Actor. (<a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">History Link - playdb</a>, 2016 ~ 2019)
 - Bachelor of Classic Piano Performance. (Hanyang Univ, Seoul, South Korea)
 <br/>
 
