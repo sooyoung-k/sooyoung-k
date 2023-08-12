@@ -5,7 +5,7 @@
 - Engineer Information Processing. (2021)
 - Associate Degree of Information Processing. (2021)
 - Industrial Engineer Information Processing. (2020)
-- Musical Pianist & Actor. (2016 ~ 2019) - <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">history link</a>
+- <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">Musical Pianist & Actor.</a> (2016 ~ 2019)
 - Bachelor Degree of Classical Piano Performance. (Hanyang Univ, Seoul, South Korea) - Studied under prof. <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>
 <br/>
 
