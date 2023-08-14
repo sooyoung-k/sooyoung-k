@@ -1,16 +1,14 @@
-### <br/><div align="center">Sooyoung Kang</div>
-## <br/>CV
+### <br/><div align="center">Sooyoung Kang</div><br/>
+## CV
 - Lives and works at Seongsu-dong, Seoul, South Korea.
 - Full-stack developer. (2021 ~ now)
 - <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">Musical Pianist & Actor.</a> (2016 ~ 2019)
-<br/>
 
-## <br/>Degree
-- 정보처리과 전문학사 학위(Associate Degree of Information Processing). (NILE, 2021)
-- 피아노과 학사 학위(Bachelor Degree of Classical Piano Performance. Studied under prof. <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>, Hanyang Univ, Seoul, South Korea)
-<br/>
+## Degree
+- 정보처리과 전문학사 학위(Associate Degree of Information Processing, NILE).
+- 피아노과 학사 학위(Bachelor Degree of Classical Piano Performance. Studied under prof. <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>, Hanyang Univ, Seoul, South Korea).
 
-## <br/>Qualification
+## Qualification
 - 정보처리기사(Engineer Information Processing, 2021).
 - 정보처리산업기사(Industrial Engineer Information Processing, 2020).
 <br/>
