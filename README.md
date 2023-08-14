@@ -3,11 +3,11 @@
 - Lives and works at Seongsu-dong, Seoul, South Korea.
 - Full-stack developer. (2021 ~ now)
 - <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">Musical Pianist & Actor.</a> (2016 ~ 2019)
-- Piano Performance and Music Studied under pianist <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>
+- Studied Music under pianist <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>
 
 ### Degree
 - 정보처리과 전문학사 학위(Associate Degree of Information Processing, NILE).
-- 피아노과 학사 학위(Bachelor Degree of Classical Piano Performance, Hanyang Univ, Seoul, South Korea).
+- 피아노과 학사 학위(Bachelor Degree of Classical Music in Piano Performance, Hanyang Univ, Seoul, South Korea).
 
 ### Qualification
 - 정보처리기사(Engineer Information Processing, 2021).
