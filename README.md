@@ -40,7 +40,7 @@
 - Linux(CentOS)
 - Eclipse(2020-06)
 - VS Code
-### Collaboration
+### Dev-Ops.
 - Git
 - SVN
 <br/>
