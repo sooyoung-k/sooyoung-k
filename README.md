@@ -34,7 +34,7 @@
 ### Deploy Env.
 - AWS
 - GCP
-- Docker / Nginx, Tomcat(~9), Node.js
+- Docker / Nginx, Tomcat9, Node.js
 ### Dev-Env.
 - MS Windows
 - Linux(CentOS)
