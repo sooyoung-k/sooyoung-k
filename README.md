@@ -40,7 +40,6 @@
 - AWS
 - GCP
 - Docker / Nginx, Tomcat, Node.js
-<br/>
 ### Collaboration Tool
 - Git
 - SVN
