@@ -31,16 +31,16 @@
 - Typescript
 - HTML5
 - CSS3
+### Deploy Env.
+- AWS
+- GCP
+- Docker / Nginx, Tomcat, Node.js
 ### Dev-Env.
 - MS Windows
 - Linux(CentOS)
 - Eclipse(2020-06)
 - VS Code
-### Deploy Env.
-- AWS
-- GCP
-- Docker / Nginx, Tomcat, Node.js
-### Collaboration Tool
+### Collaboration
 - Git
 - SVN
 <br/>
