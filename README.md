@@ -33,8 +33,8 @@
 - HTML5
 - CSS3
 ### Deploy Env.
-- AWS
 - GCP
+- AWS
 - Docker / Nginx, Tomcat9, Node.js
 ### Dev-Env.
 - MS Windows
