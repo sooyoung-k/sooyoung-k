@@ -6,7 +6,7 @@
 
 ### Degree
 - 정보처리과 전문학사 학위(Associate Degree of Information Processing, NILE).
-- 피아노과 학사 학위(Bachelor Degree of Classical Piano Performance. Studied under prof. <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>, Hanyang Univ, Seoul, South Korea).
+- 피아노과 학사 학위(Studied under prof. <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>)(Bachelor Degree of Classical Piano Performance, Hanyang Univ, Seoul, South Korea).
 
 ### Qualification
 - 정보처리기사(Engineer Information Processing, 2021).
