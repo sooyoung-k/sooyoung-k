@@ -1,5 +1,6 @@
 ### <br/><div align="center">Sooyoung Kang</div><br/>
-## CV
+## Profile
+### CV
 - Lives and works at Seongsu-dong, Seoul, South Korea.
 - Full-stack developer. (2021 ~ now)
 - <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">Musical Pianist & Actor.</a> (2016 ~ 2019)
