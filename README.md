@@ -27,7 +27,7 @@
 - Java8
 - JSP(JSTL)
 ### Front-End
-- Vue.js - Nuxt.js with pinia, element+, tailwindcss
+- Vue.js - Nuxt.js with pinia, element+, tailwindcss, Tiptap
 - Javascript(+ jQuery)
 - Typescript
 - HTML5
