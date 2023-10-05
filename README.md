@@ -13,6 +13,10 @@
 ### Qualification
 - 정보처리기사(Engineer Information Processing, 2021).
 - 정보처리산업기사(Industrial Engineer Information Processing, 2020).
+
+### Scholarship
+- 현대차 정몽구 재단 문화예술 장학금(Arts and Culture Scholarship, Hyundai Motor Chung Mong-Koo Foundation, 2010).
+- 현대차 정몽구 재단 문화예술 장학금(Arts and Culture Scholarship, Hyundai Motor Chung Mong-Koo Foundation, 2009).
 <br/>
 
 ## Skill Set  
