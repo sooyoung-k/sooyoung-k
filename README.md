@@ -11,8 +11,8 @@
 - 피아노과 학사 학위(Bachelor Degree of Classical Music in Piano Performance, Hanyang Univ, Seoul, South Korea).
 
 ### Qualification
-- 정보처리기사(Engineer Information Processing, 2021).
-- 정보처리산업기사(Industrial Engineer Information Processing, 2020).
+- 정보처리기사(Engineer Information Processing, National, 2021).
+- 정보처리산업기사(Industrial Engineer Information Processing, National, 2020).
 
 ### Scholarship
 - 현대차 정몽구 재단 문화예술 장학금(Arts and Culture Scholarship, Hyundai Motor Chung Mong-Koo Foundation, 2010).
