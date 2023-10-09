@@ -50,10 +50,6 @@
 - SVN
 <br/>
 
-## Portfolio
-- <a href="https://junginkang.com" target="_blank">junginkang.com</a>
-<br/>
-
 ## Connect with me  
 <div align="center">
 <a href="https://instagram.com/slpydg" target="_blank">
