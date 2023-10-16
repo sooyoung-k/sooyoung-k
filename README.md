@@ -51,7 +51,7 @@
 <br/>
 
 ## Portfolio
-- junginkang.com
+- <a href="https://junginkang.com" target="_blank">junginkang.com</a>
 <br/>
 
 ## Connect with me  
