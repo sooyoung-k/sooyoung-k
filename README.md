@@ -41,7 +41,7 @@
 - HTML5
 - CSS3
 ### Deploy Env.
-- Selfmade Home Server (MS Windows x Docker)
+- Homemade Server (MS Windows x Docker)
 - GCP
 - AWS
 - Docker / Nginx, Tomcat9, Node.js
@@ -56,7 +56,7 @@
 <br/>
 
 ## Portfolio
-- <a href="https://junginkang.com" target="_blank">junginkang.com</a>
+- <a href="https://junginkang.com" target="_blank">junginkang.com</a> (Spring5, Java8, JSP, Vue.js / Homemade Server)
 <br/>
 
 ## Connect with me  
