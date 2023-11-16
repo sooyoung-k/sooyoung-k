@@ -56,9 +56,10 @@
 <br/>
 
 ## Portfolio
-- <a href="https://junginkang.com" target="_blank">junginkang.com</a> - client/admin(JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
-    -- ㅅㄷㄴㅅ
-- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> - client/admin(Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
+- <a href="https://junginkang.com" target="_blank">junginkang.com</a> (JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
+    : Artist Jungin Kang's artwork archive and managing site consists of client side and admin side.
+- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> (Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
+    : Pianist Yongkye Lee's web invitation site for concert consists of client side and admin side.
 <br/>
 
 ## Connect with me  
