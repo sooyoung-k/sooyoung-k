@@ -44,7 +44,7 @@
 - Homemade Server (MS Windows x Docker)
 - GCP
 - AWS
-- Docker / Node.js (Nginx, Tomcat9)
+- Docker / Nginx (Node.js, Tomcat9)
 ### Dev-Env.
 - MS Windows
 - Linux(CentOS)
