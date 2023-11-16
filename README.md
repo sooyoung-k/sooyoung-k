@@ -41,10 +41,10 @@
 - HTML5
 - CSS3
 ### Deploy Env.
-- Homemade Server (MS Windows x Docker)
+- Homemade Server(MS Windows x Docker)
 - GCP
 - AWS
-- Docker / Nginx (Node.js, Tomcat9)
+- Docker / Nginx(Node.js, Tomcat9)
 ### Dev-Env.
 - MS Windows
 - Linux(CentOS)
@@ -56,8 +56,8 @@
 <br/>
 
 ## Portfolio
-- <a href="https://junginkang.com" target="_blank">junginkang.com</a> - client/admin (JSP, Vue.js, Spring5, Java8, Oracle / Homemade Server)
-- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> - client/admin (Nuxt.js, Spring5, Java8, Oracle / Homemade Server)
+- <a href="https://junginkang.com" target="_blank">junginkang.com</a> - client/admin(JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
+- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> - client/admin(Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
 <br/>
 
 ## Connect with me  
