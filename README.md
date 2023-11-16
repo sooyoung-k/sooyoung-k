@@ -57,9 +57,9 @@
 
 ## Portfolio
 - <a href="https://junginkang.com" target="_blank">junginkang.com</a> (JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
-<br> : Artist Jungin Kang's artwork archive and managing site consists of client side and admin side in Monolithic architecture.
+<br/> : Artist Jungin Kang's artwork archive and managing site consists of client side and admin side in Monolithic architecture.
 - <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> (Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
-<br> : Pianist Yongkye Lee's web invitation site consists of client side and admin side in Microservices architecture.
+<br/> : Pianist Yongkye Lee's web invitation site consists of client side and admin side in Microservices architecture.
 <br/>
 
 ## Connect with me  
