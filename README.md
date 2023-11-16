@@ -57,6 +57,7 @@
 
 ## Portfolio
 - <a href="https://junginkang.com" target="_blank">junginkang.com</a> - client/admin(JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
+    -- ㅅㄷㄴㅅ
 - <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> - client/admin(Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
 <br/>
 
