@@ -17,6 +17,7 @@
 ### Scholarship
 - 한양대학교 성적우수 장학금('Merit Based' Scholarship, Hanyang Univ, 2015).
 - 한양대학교 정은모 교수 장학금('Chung Eun-Mo' Scholarship, Hanyang Univ, 2014).
+- 한양대학교 IT 행정부서 근로 장학금('IT Staff Office Assistants' Scholarship, Hanyang Univ, 2014).
 - 한양대학교 학부리더십 장학금('Honor' Scholarship, Hanyang Univ, 2013).
 - 한양대학교 성적우수 장학금('Excellent' Scholarship, Hanyang Univ, 2012).
 - 현대차 정몽구 재단 문화예술 장학금(Arts and Culture Scholarship, Hyundai Motor Chung Mong-Koo Foundation, 2010).
