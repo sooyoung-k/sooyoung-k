@@ -2,7 +2,7 @@
 ## Profile
 ### CV
 - Works at Seongsu-dong, Seoul, South Korea.
-- Full-stack developer. (2021/01 ~ now)
+- Full-stack developer. (2021.01 ~ now)
 - <a href="http://www.playdb.co.kr/artistdb/detail.asp?ManNo=43465" target="_blank">Musical Pianist & Actor.</a> (2016 ~ 2019)
 - Studied Music under pianist <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>. (2012 ~ 2015)
 
