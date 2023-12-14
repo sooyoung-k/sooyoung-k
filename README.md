@@ -27,7 +27,7 @@
 ## Skill Set  
 ### SQL
 - Oracle
-- mySql
+- MySql
 - mariaDB
 - SQL server
 ### Back-End
