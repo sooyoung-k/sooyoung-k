@@ -34,22 +34,21 @@
 - Spring5 with maven, gradle(groovy)
 - MyBatis3
 - Java8
-- JSP(JSTL)
+- JSP / JSTL
 ### Front-End
 - Vue.js - Nuxt.js with nuxt-auth, pinia, element+, tailwindcss, Tiptap
-- Javascript(+ jQuery)
+- Javascript & jQuery
 - Typescript
-- HTML5
-- CSS3
+- HTML5 & CSS3
 ### Deploy Env.
-- Home Server(MS Windows x Docker)
+- Home Server (MS Windows x Docker)
 - GCP
 - AWS
-- Docker / Nginx(Node.js, Tomcat9)
+- Docker / Nginx (Node.js, Tomcat9)
 ### Dev-Env.
 - MS Windows
-- Linux(CentOS)
-- Eclipse(2020-06)
+- Linux (CentOS)
+- Eclipse (2020-06)
 - VS Code
 ### Dev-Ops.
 - Git
