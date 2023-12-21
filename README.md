@@ -42,7 +42,7 @@
 - HTML5
 - CSS3
 ### Deploy Env.
-- Homemade Server(MS Windows x Docker)
+- Selfmade Server(MS Windows x Docker)
 - GCP
 - AWS
 - Docker / Nginx(Node.js, Tomcat9)
@@ -57,9 +57,9 @@
 <br/>
 
 ## Portfolio
-- <a href="https://junginkang.com" target="_blank">junginkang.com</a> (JSP, Vue.js / Spring5, Java8 / Oracle / Homemade Server)
+- <a href="https://junginkang.com" target="_blank">junginkang.com</a> (JSP, Vue.js / Spring5, Java8 / Oracle / Selfmade Server)
 <br/> : Artist Jungin Kang's artwork managing site consists of responsive client side and admin side in Monolithic architecture.
-- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> (Nuxt.js / Spring5, Java8 / Oracle / Homemade Server)
+- <a href="http://yklee.plnn.xyz" target="_blank">yklee.plnn.xyz</a> (Nuxt.js / Spring5, Java8 / Oracle / Selfmade Server)
 <br/> : Pianist Yongkye Lee's web invitation site consists of responsive client side and admin side in Microservices architecture.
 <br/>
 
