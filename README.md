@@ -31,7 +31,7 @@
 - mariaDB
 - SQL server
 ### Back-End
-- Spring5 with maven, gradle(groovy)
+- Spring5 with maven, gradle
 - MyBatis3
 - Java8
 - JSP / JSTL
