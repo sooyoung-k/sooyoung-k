@@ -40,7 +40,7 @@
 - Javascript & jQuery
 - Typescript
 - HTML5 & CSS3
-### Deploy Env.
+### Server
 - Home Server (MS Windows x Docker)
 - GCP
 - AWS
