@@ -31,7 +31,7 @@
 - mariaDB
 - SQL server
 ### Back-End
-- Spring5 with maven, gradle
+- Spring5 with maven or gradle
 - MyBatis3
 - Java8
 - JSP / JSTL
@@ -49,6 +49,7 @@
 - MS Windows
 - Linux (CentOS)
 - Eclipse (2020-06)
+- eGovFrame (3.10)
 - VS Code
 ### Dev-Ops.
 - Git
