@@ -37,7 +37,7 @@
 - JSP / JSTL
 ### Front-End
 - Vue.js - Nuxt.js with nuxt-auth, pinia, element+, tailwindcss, Tiptap
-- Javascript & jQuery
+- Javascript & jQuery (ES6)
 - Typescript
 - HTML5 & CSS3
 ### Server
