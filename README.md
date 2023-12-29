@@ -38,7 +38,7 @@
 ### Front-End
 - Vue.js - Nuxt.js with nuxt-auth, pinia, element+, tailwindcss, Tiptap
 - Javascript & jQuery (ES6)
-- Typescript
+- Typescript (low-level)
 - HTML5 & CSS3
 ### Server
 - Home Server (MS Windows x Docker)
