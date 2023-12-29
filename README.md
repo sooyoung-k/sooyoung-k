@@ -52,7 +52,7 @@
 - VS Code
 - ERwin
 - PowerBuilder (low-level)
-### Dev-Ops.
+### Co-Work
 - Git
 - SVN
 - Discord
