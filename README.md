@@ -42,19 +42,20 @@
 - HTML5 & CSS3
 ### Server
 - Home Server (MS Windows x Docker)
+- Linux (CentOS)
 - GCP
 - AWS
 - Docker / Nginx (Node.js, Tomcat9)
 ### Dev-Env.
-- MS Windows
-- Linux (CentOS)
 - Eclipse (2020-06)
 - eGovFrame (3.10.0)
 - VS Code
+- ERwin
+- PowerBuilder (low-level)
 ### Dev-Ops.
 - Git
 - SVN
-- ERwin
+- Discord
 <br/>
 
 ## Portfolio
