@@ -46,7 +46,7 @@
 - GCP
 - AWS
 - Docker / Nginx (Node.js, Tomcat9)
-### Dev-Env.
+### Dev-Tools
 - Eclipse (2020-06)
 - eGovFrame (3.10.0)
 - VS Code
