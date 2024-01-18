@@ -7,8 +7,8 @@
 - Studied Music under pianist <a href="https://music.apple.com/us/artist/yongkyu-lee/268806122" target="_blank">Yongkyu Lee</a>. (2012 ~ 2015)
 
 ### Qualification
-- 정보처리과 전문학사 학위(Associate Degree of Information Processing, NILE, 2021).
 - 정보처리기사(Engineer Information Processing, National, 2021).
+- 정보처리과 전문학사 학위(Associate Degree of Information Processing, NILE, 2021).
 - 정보처리산업기사(Industrial Engineer Information Processing, National, 2020).
 - 피아노과 학사 학위(Bachelor Degree of Classical Music in Piano Performance, Hanyang Univ, Seoul, South Korea, 2019).
 
