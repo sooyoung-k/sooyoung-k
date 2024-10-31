@@ -2,8 +2,7 @@
 ## Skill Set  
 ### SQL
 - Oracle
-- MySql
-- mariaDB
+- MySql(mariaDB)
 - SQL server
 ### Back-End
 - Spring5 with maven or gradle
