@@ -31,13 +31,7 @@
 - SVN
 - Discord
 <br/>
-
-## Connect with me  
-<a href="https://sooyoungkang.com" target="_blank">
-sooyoungkang.com
-</a>
-</div>
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sykang0223&&style=flat-square" align="center" />
